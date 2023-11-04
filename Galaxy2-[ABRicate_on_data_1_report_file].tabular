@@ -1,8 +1,0 @@
-#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
-SRR6871246.fasta	NODE_10_length_134230_cov_263.957422	62918	63391	-	dfrA1	1-474/474	===============	0/0	100.00	100.00	ncbi	NG_047676.1	trimethoprim-resistant dihydrofolate reductase DfrA1	TRIMETHOPRIM
-SRR6871246.fasta	NODE_28_length_7987_cov_249.381037	679	1308	+	catB9	1-630/630	===============	0/0	100.00	100.00	ncbi	NG_047621.1	type B-5 chloramphenicol O-acetyltransferase CatB9	CHLORAMPHENICOL
-SRR6871246.fasta	NODE_29_length_7388_cov_261.076187	407	1222	+	sul2	1-816/816	===============	0/0	100.00	100.00	ncbi	NG_051852.1	sulfonamide-resistant dihydropteroate synthase Sul2	SULFONAMIDE
-SRR6871246.fasta	NODE_29_length_7388_cov_261.076187	1259	2086	+	aph(3'')-Ib	1-828/828	===============	0/0	100.00	99.88	ncbi	NG_056002.2	aminoglycoside O-phosphotransferase APH(3'')-Ib	STREPTOMYCIN
-SRR6871246.fasta	NODE_29_length_7388_cov_261.076187	2086	2922	+	aph(6)-Id	1-837/837	===============	0/0	100.00	100.00	ncbi	NG_047464.1	aminoglycoside O-phosphotransferase APH(6)-Id	STREPTOMYCIN
-SRR6871246.fasta	NODE_29_length_7388_cov_261.076187	3878	5092	-	floR	1-1215/1215	===============	0/0	100.00	99.92	ncbi	NG_047869.1	chloramphenicol/florfenicol efflux MFS transporter FloR	CHLORAMPHENICOL;FLORFENICOL
-SRR6871246.fasta	NODE_4_length_325598_cov_253.578589	89150	90274	+	varG	1-1125/1125	===============	0/0	100.00	100.00	ncbi	NG_057468.1	VarG family subclass B1-like metallo-beta-lactamase	CARBAPENEM
